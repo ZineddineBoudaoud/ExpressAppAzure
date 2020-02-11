@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/86466782-2a32-4f3c-ab0c-08b5c2c2d529/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/aquarius-express-app",
+    "appService.deploySubpath": ""
+}
